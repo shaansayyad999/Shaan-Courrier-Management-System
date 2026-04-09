@@ -29,6 +29,7 @@ This project is developed as part of Project Based Learning (PBL) for Computer E
 It helps in understanding web development, database connectivity, and real-world system design.
 
 
-Shaan
+Shaan Nazim Sayyad
 Computer Engineering Student
 SPPU
+
